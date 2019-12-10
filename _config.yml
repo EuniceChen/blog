@@ -36,3 +36,5 @@ plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
+
+theme: jekyll-theme-modernist
