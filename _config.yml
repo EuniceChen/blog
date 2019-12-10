@@ -1,6 +1,6 @@
-title: "Blog title"
-author: "Funsuk Wangdu"
-description: "Your amazing blog should have a sassy description"
+title: "Start with the Littlest Things"
+author: "Kaiyi Chen"
+description: "Many a little makes a mickle."
 
 # Jekyll settings
 permalink: /:title:output_ext # see https://jekyllrb.com/docs/permalinks/
@@ -21,9 +21,9 @@ navigation:                  # show navigation links in the header
 
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
-  envelope: "mailto:<user@mailid.com>"
-  github: "https://github.com/<username>/<repo>"
-  rss: "/<repo>/feed.xml"
+  envelope: "mailto:<EuniceChen@mailid.com>"
+  github: "https://github.com/EuniceChen/blog"
+  rss: "/blog/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: "disqus-contrast"
