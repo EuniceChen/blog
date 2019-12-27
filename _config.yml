@@ -37,4 +37,4 @@ plugins:
  - jekyll-paginate
  - jekyll-default-layout
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-tactile
